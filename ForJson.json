@@ -1,0 +1,42 @@
+{"data":[{
+  "Id" : 1,
+  "Company Name" : "Sun Pahrma",
+  "Item Code" : 1325,
+  "Location" : "Dewas",
+  "Direction" : "Anticlockwise"
+},
+{
+  "Id" : 2,
+  "Company Name" : "Alkem",
+  "Item Code" : 639,
+  "Location" : "sikkim",
+  "Direction" : "Anticlockwise"
+},
+{
+  "Id" : 3,
+  "Company Name" : "Panacea",
+  "Item Code" : 8636,
+  "Location" : "Baddi",
+  "Direction" : "Anticlockwise"
+},
+{
+  "Id" : 4,
+  "Company Name" : "Immacule",
+  "Item Code" : 8639,
+  "Location" : "Baddi",
+  "Direction" : "Clockwiswe"
+},
+{
+  "Id" : 5,
+  "Company Name" : "Macleods",
+  "Item Code" : 98739,
+  "Location" : "sikkim",
+  "Direction" : "Clockwiswe"
+},
+{
+  "Id" : 6,
+  "Company Name" : "Unichem",
+  "Item Code" : 983,
+  "Location" : "Baddi",
+  "Direction" : "Clockwiswe"
+}]}
